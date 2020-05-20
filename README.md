@@ -7,3 +7,4 @@ Homework 2: Modelling using Dynamic Mode Decomposition, Time-Delay Embedding, Sp
 
 Future Homework Assignments:
 Homework 3: Principal Component Analysis, SVD Analysis, Eigenfaces, Clustering and Classification
+Homework 4: Neural Networks for Dynamical Systems
