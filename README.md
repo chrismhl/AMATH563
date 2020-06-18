@@ -10,5 +10,4 @@ Homework 2: Modelling using Dynamic Mode Decomposition, Time-Delay Embedding, Sp
 
 Homework 3: Principal Component Analysis, Eigenfaces, Clustering and Classification using Supervised and Unsupervised Learning Algorithms
 
-Future Homework Assignments:
 Homework 4: Neural Networks for Dynamical Systems
